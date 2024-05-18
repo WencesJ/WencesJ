@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="750" height="310" src="https://bold.pro/my/wenceslas-jonah-240510172746">
+ <img  width="750" height="310" src="[https://bold.pro/my/wenceslas-jonah-240510172746](https://ibb.co/nrzhd8x)">
 </p>
 <h2 align="center">Hello there! My name is Wenceslas Jonah. 👋🤓 </h1>
 <p align="center">Experienced software engineer adept at developing efficient, secure, and scalable solutions. Skilled in dissecting complex challenges and aligning technology solutions with business objectives. Demonstrated ability to streamline processes, increasing operational efficiency by 30%.

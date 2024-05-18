@@ -1,5 +1,7 @@
 <p align="center">
- <img  width="750" height="310" src="[https://bold.pro/my/wenceslas-jonah-240510172746](https://i.ibb.co/Q9rsSjy/Screenshot-2024-05-18-at-12-04-22.png)">
+ <a href="https://bold.pro/my/wenceslas-jonah-240510172746">
+    <img  width="750" height="310" src="https://i.ibb.co/Q9rsSjy/Screenshot-2024-05-18-at-12-04-22.png">
+  </a>
 </p>
 <h2 align="center">Hello there! My name is Wenceslas Jonah. 👋🤓 </h1>
 <p align="center">Experienced software engineer adept at developing efficient, secure, and scalable solutions. Skilled in dissecting complex challenges and aligning technology solutions with business objectives. Demonstrated ability to streamline processes, increasing operational efficiency by 30%.
@@ -19,7 +21,7 @@ Core competencies: Backend, JavaScript/TypeScript, Python, NestJS, ExpressJS, Ad
 </p>
 <hr>
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> -->
 </p>
 
 

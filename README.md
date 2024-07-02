@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">Hello there! My name is Wenceslas Jonah. 👋🤓 </h1>
 <p align="center">Experienced software engineer adept at developing efficient, secure, and scalable solutions. Skilled in dissecting complex challenges and aligning technology solutions with business objectives. Demonstrated ability to streamline processes, increasing operational efficiency by 30%.
-Core competencies: Backend, JavaScript/TypeScript, Python, NestJS, ExpressJS, AdonisJS, Flask, MySQL, PostgreSQL, MongoDB, AWS, Digital Ocean.
+Core competencies: Backend, JavaScript, TypeScript, Python, NodeJS, NestJS, ExpressJS, AdonisJS, Flask, MySQL, PostgreSQL, MongoDB, AWS, Redis, Queues, OOP, Digital Ocean.
 </h3>
 
 <p align="center"><a href="https://x.com/Wences_official"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/wenceslas-jonah-aa08371b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
